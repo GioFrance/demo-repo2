@@ -11,3 +11,5 @@ sample for multiple people
 info from main branch
 
 info from my branch
+
+info from main branch 2
